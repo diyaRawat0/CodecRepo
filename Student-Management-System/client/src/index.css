@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  * {
+    @apply border-line;
+  }
+  body {
+    @apply bg-sand text-ink antialiased;
+  }
+  button,
+  input,
+  select,
+  textarea {
+    @apply outline-none;
+  }
+}
+@layer components {
+  .panel {
+    @apply rounded-2xl border border-line bg-white shadow-soft;
+  }
+  .eyebrow {
+    @apply text-[11px] font-bold uppercase tracking-[.18em] text-teal;
+  }
+  .field {
+    @apply mt-1 w-full rounded-xl border border-line bg-white px-3.5 py-2.5 text-sm text-ink transition focus:border-teal focus:ring-2 focus:ring-mint;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-ink px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-teal disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-line bg-white px-4 py-2.5 text-sm font-semibold text-ink transition hover:border-teal hover:text-teal;
+  }
+}

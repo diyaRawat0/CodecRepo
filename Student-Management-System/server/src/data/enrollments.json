@@ -1,0 +1,362 @@
+[
+  {
+    "id": "049eef85-f1a6-47a6-8dd3-c601ccb1abd2",
+    "studentId": "fcec11e2-8341-49fb-98a7-e7879b5d2e81",
+    "courseId": "c8777f1b-a817-42a4-9809-e9d6328cea2b",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-09T13:05:00.032Z"
+  },
+  {
+    "id": "5cd6e212-9374-4e15-bcb9-1845aa35e1d2",
+    "studentId": "364f89e3-8e4c-4aa1-8820-b0a2c831367e",
+    "courseId": "139c2c9a-6d6e-42cc-a7f3-d47cf7d4ac0e",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-09T12:05:00.032Z"
+  },
+  {
+    "id": "18fa1be3-18f9-4336-bf26-5e8475b43735",
+    "studentId": "f6db3809-2aa0-4ae0-a738-59242f51f14b",
+    "courseId": "5a109ddc-6dbe-4ffa-8f18-fecd77ef91c7",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-09T11:05:00.032Z"
+  },
+  {
+    "id": "ac74b0b3-aaf7-410f-b4c3-7f20b21be485",
+    "studentId": "92e2160d-e775-4727-addb-7de486e519e0",
+    "courseId": "87b140be-e615-4e2f-b8a5-ab5c8688435d",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-09T10:05:00.032Z"
+  },
+  {
+    "id": "5fb5cf05-5338-4bcb-bf2a-56a55377e392",
+    "studentId": "e78873f7-3123-40a0-ba3e-21bceffb988d",
+    "courseId": "4c6fa37e-5217-4897-9971-1911754887cb",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-09T09:05:00.032Z"
+  },
+  {
+    "id": "699c5836-9f8b-443b-8012-7bb7b6abd74e",
+    "studentId": "43056023-798d-450e-bac0-107ff77595a7",
+    "courseId": "87425fbf-2e45-4990-8593-2c4093fd64b1",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-09T08:05:00.032Z"
+  },
+  {
+    "id": "e43b6a9b-63dc-411f-b01a-121a23bb37cb",
+    "studentId": "9413b736-041c-42c8-b59c-7072501b68f0",
+    "courseId": "417cca7a-50c7-490e-91a1-6b7930d7265c",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-09T07:05:00.032Z"
+  },
+  {
+    "id": "ff461110-e60e-46c3-80c3-94f30cfac19f",
+    "studentId": "b9cea655-20ee-4e58-9cc7-cc271b82f54d",
+    "courseId": "fe3339e3-c279-49eb-bb1a-8965846b809e",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-09T06:05:00.032Z"
+  },
+  {
+    "id": "5cff0e67-bc4b-4fa8-87d2-0a69cf2e3e84",
+    "studentId": "82b4001c-ab70-423e-9386-f3732dbb33a9",
+    "courseId": "b594960b-e534-465a-b741-0eb4b09eb6da",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-09T05:05:00.032Z"
+  },
+  {
+    "id": "694f0548-806e-4427-b098-6c35847209e9",
+    "studentId": "e665f78a-774d-4369-ba1e-1c0487043262",
+    "courseId": "6dc29680-f09a-47be-ae94-375959d32cbe",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-09T04:05:00.032Z"
+  },
+  {
+    "id": "00371f48-b0dc-49d0-97b0-dd74eab2d2ce",
+    "studentId": "c0aec7ab-aab8-4f66-883a-8d541fe89df8",
+    "courseId": "af232666-9434-41ca-a5e4-dd5464207422",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-09T03:05:00.032Z"
+  },
+  {
+    "id": "bd3a2d6b-cd7e-4869-a46b-f5a42f72ee50",
+    "studentId": "7b1f3c54-184d-4c33-864d-c9819ebf0598",
+    "courseId": "0e6377a7-9ac5-4bfd-9dc0-3192609d837f",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-09T02:05:00.032Z"
+  },
+  {
+    "id": "efca2f10-8813-48fd-a0a1-6cf2d85b485c",
+    "studentId": "1389a4ac-3ee6-45b3-8546-d4ba6b4247b0",
+    "courseId": "8bbdd2fb-cf66-42aa-bceb-ce48416bb886",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-09T01:05:00.032Z"
+  },
+  {
+    "id": "2b011a6c-4825-4c95-8c17-0f52d8739685",
+    "studentId": "7dc76b6b-3f54-46c6-91f2-953df1e436da",
+    "courseId": "5816f71a-24c1-474b-a0a4-dd25359cf404",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-09T00:05:00.032Z"
+  },
+  {
+    "id": "e4d34056-df4e-45a7-a441-1f4c975e9136",
+    "studentId": "d42f007a-ffcc-4ab1-8d24-de7bf5a700b4",
+    "courseId": "80629bb0-d621-4817-a2b7-7f98e8abd6de",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-08T23:05:00.032Z"
+  },
+  {
+    "id": "96081108-4db7-4582-a56a-6fee6c099766",
+    "studentId": "39d4bfac-f54b-4439-b227-24a545f715af",
+    "courseId": "c8777f1b-a817-42a4-9809-e9d6328cea2b",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-08T22:05:00.032Z"
+  },
+  {
+    "id": "5788e043-c901-496f-aa7e-4ed29d4e0b09",
+    "studentId": "6856c495-568e-4a2d-8803-da064f5a9a40",
+    "courseId": "139c2c9a-6d6e-42cc-a7f3-d47cf7d4ac0e",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-08T21:05:00.032Z"
+  },
+  {
+    "id": "fcca392b-d5c8-45d4-b585-6459683e56d0",
+    "studentId": "f85af679-9568-4cfd-b76d-5ca5735acabc",
+    "courseId": "5a109ddc-6dbe-4ffa-8f18-fecd77ef91c7",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-08T20:05:00.032Z"
+  },
+  {
+    "id": "91897731-98e6-4715-b62c-824a0bf9bc63",
+    "studentId": "797d0998-3775-4265-938e-bd7a9d728a49",
+    "courseId": "87b140be-e615-4e2f-b8a5-ab5c8688435d",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-08T19:05:00.032Z"
+  },
+  {
+    "id": "bab01e04-70ce-4ff3-b0e2-ebc691d64668",
+    "studentId": "7cd494ad-7dd9-43d5-bd56-ee78cef97ea9",
+    "courseId": "4c6fa37e-5217-4897-9971-1911754887cb",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-08T18:05:00.032Z"
+  },
+  {
+    "id": "29c77d00-ba61-4d9b-aa51-ba319c3dfde5",
+    "studentId": "f5619283-d294-4da4-a659-357a45aa5dde",
+    "courseId": "87425fbf-2e45-4990-8593-2c4093fd64b1",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-08T17:05:00.032Z"
+  },
+  {
+    "id": "0343e96f-9f82-416c-9785-f2d3b828a897",
+    "studentId": "8f5d21d4-b836-4b54-b9bd-ee7371672d1b",
+    "courseId": "417cca7a-50c7-490e-91a1-6b7930d7265c",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-08T16:05:00.032Z"
+  },
+  {
+    "id": "8b041d41-6988-45c7-b35a-867a5fc0ccc0",
+    "studentId": "61112bc1-9795-4429-9b2e-a0e7ef61b792",
+    "courseId": "fe3339e3-c279-49eb-bb1a-8965846b809e",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-08T15:05:00.032Z"
+  },
+  {
+    "id": "b256b201-9fe8-4383-8c8e-96e62204ce7e",
+    "studentId": "17a37377-8c92-4922-a630-862ca4859669",
+    "courseId": "b594960b-e534-465a-b741-0eb4b09eb6da",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-08T14:05:00.032Z"
+  },
+  {
+    "id": "9bebccf2-8f82-40f0-9497-f8369ce5ecf3",
+    "studentId": "aa3d8f78-a2ba-45b5-a9b9-d3216b8379fb",
+    "courseId": "6dc29680-f09a-47be-ae94-375959d32cbe",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-08T13:05:00.032Z"
+  },
+  {
+    "id": "b02c3b8a-e3ab-4cdc-88c2-6ea9aba9ed0f",
+    "studentId": "7193850b-1375-4e6e-b16d-d62adb76b83f",
+    "courseId": "af232666-9434-41ca-a5e4-dd5464207422",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-08T12:05:00.032Z"
+  },
+  {
+    "id": "bcacdb75-151d-4d29-a22b-dc4e277750c9",
+    "studentId": "23496ecf-eaec-4165-9680-8fb5b46ed18b",
+    "courseId": "0e6377a7-9ac5-4bfd-9dc0-3192609d837f",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-08T11:05:00.032Z"
+  },
+  {
+    "id": "9e5e0cf5-dd30-4c53-a877-fa0dbde7fed4",
+    "studentId": "0a179382-60da-4fec-80d4-d77b3c93a0eb",
+    "courseId": "8bbdd2fb-cf66-42aa-bceb-ce48416bb886",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-08T10:05:00.032Z"
+  },
+  {
+    "id": "91ff5215-7bbc-4abe-8f82-c7fa6f15de96",
+    "studentId": "1efae170-4e2e-4542-98d6-317ef4096426",
+    "courseId": "5816f71a-24c1-474b-a0a4-dd25359cf404",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-08T09:05:00.032Z"
+  },
+  {
+    "id": "ae029f38-c417-42f7-a41b-112c827d98c0",
+    "studentId": "28b6bddc-3051-498e-bacf-d1b89e0ad590",
+    "courseId": "80629bb0-d621-4817-a2b7-7f98e8abd6de",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-08T08:05:00.032Z"
+  },
+  {
+    "id": "65749a4a-43d0-49d3-822d-f9159a7ef992",
+    "studentId": "fcec11e2-8341-49fb-98a7-e7879b5d2e81",
+    "courseId": "c8777f1b-a817-42a4-9809-e9d6328cea2b",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-08T07:05:00.032Z"
+  },
+  {
+    "id": "c4048ba9-2f79-4e39-bdb7-098fcaddf652",
+    "studentId": "364f89e3-8e4c-4aa1-8820-b0a2c831367e",
+    "courseId": "139c2c9a-6d6e-42cc-a7f3-d47cf7d4ac0e",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-08T06:05:00.032Z"
+  },
+  {
+    "id": "77de9206-0258-4756-86fa-48d12bf2780c",
+    "studentId": "f6db3809-2aa0-4ae0-a738-59242f51f14b",
+    "courseId": "5a109ddc-6dbe-4ffa-8f18-fecd77ef91c7",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-08T05:05:00.032Z"
+  },
+  {
+    "id": "ccbaf141-8d76-4ee3-86a9-487e5dcca1ed",
+    "studentId": "92e2160d-e775-4727-addb-7de486e519e0",
+    "courseId": "87b140be-e615-4e2f-b8a5-ab5c8688435d",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-08T04:05:00.032Z"
+  },
+  {
+    "id": "14a824b1-509a-4dcd-9e8c-241c077d377d",
+    "studentId": "e78873f7-3123-40a0-ba3e-21bceffb988d",
+    "courseId": "4c6fa37e-5217-4897-9971-1911754887cb",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-08T03:05:00.032Z"
+  },
+  {
+    "id": "4129f076-43ce-40a3-af83-ab2c9748ed90",
+    "studentId": "43056023-798d-450e-bac0-107ff77595a7",
+    "courseId": "87425fbf-2e45-4990-8593-2c4093fd64b1",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "A",
+    "enrolledAt": "2026-09-08T02:05:00.032Z"
+  },
+  {
+    "id": "f2c04bb0-be65-4fd0-b09b-759f6466cd7e",
+    "studentId": "9413b736-041c-42c8-b59c-7072501b68f0",
+    "courseId": "417cca7a-50c7-490e-91a1-6b7930d7265c",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": "B+",
+    "enrolledAt": "2026-09-08T01:05:00.032Z"
+  },
+  {
+    "id": "0e092475-53ee-418a-b699-486ebe755422",
+    "studentId": "b9cea655-20ee-4e58-9cc7-cc271b82f54d",
+    "courseId": "fe3339e3-c279-49eb-bb1a-8965846b809e",
+    "semester": "Spring",
+    "academicYear": "2025-2026",
+    "grade": "B",
+    "enrolledAt": "2026-09-08T00:05:00.032Z"
+  },
+  {
+    "id": "0cf927f4-2b75-4fb8-9eb4-5fd81603d71d",
+    "studentId": "82b4001c-ab70-423e-9386-f3732dbb33a9",
+    "courseId": "b594960b-e534-465a-b741-0eb4b09eb6da",
+    "semester": "Summer",
+    "academicYear": "2025-2026",
+    "grade": "A-",
+    "enrolledAt": "2026-09-07T23:05:00.032Z"
+  },
+  {
+    "id": "4b3d3c9f-23ee-48c5-8ad6-7ef01990908d",
+    "studentId": "e665f78a-774d-4369-ba1e-1c0487043262",
+    "courseId": "6dc29680-f09a-47be-ae94-375959d32cbe",
+    "semester": "Fall",
+    "academicYear": "2025-2026",
+    "grade": null,
+    "enrolledAt": "2026-09-07T22:05:00.032Z"
+  }
+]

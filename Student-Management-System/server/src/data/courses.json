@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c8777f1b-a817-42a4-9809-e9d6328cea2b",
+    "courseCode": "CS200",
+    "name": "Data Structures",
+    "description": "Data Structures fundamentals and practice",
+    "credits": 2,
+    "departmentId": "80f597dd-1691-4dd8-ad19-48a64ee09c59"
+  },
+  {
+    "id": "139c2c9a-6d6e-42cc-a7f3-d47cf7d4ac0e",
+    "courseCode": "BUS201",
+    "name": "Web Engineering",
+    "description": "Web Engineering fundamentals and practice",
+    "credits": 3,
+    "departmentId": "d79922b1-da5d-4e86-b43f-3ac413e0b54b"
+  },
+  {
+    "id": "5a109ddc-6dbe-4ffa-8f18-fecd77ef91c7",
+    "courseCode": "ENG202",
+    "name": "Financial Accounting",
+    "description": "Financial Accounting fundamentals and practice",
+    "credits": 4,
+    "departmentId": "f373b0b6-0583-433b-a657-bcd2960ef0e3"
+  },
+  {
+    "id": "87b140be-e615-4e2f-b8a5-ab5c8688435d",
+    "courseCode": "ART203",
+    "name": "Design Thinking",
+    "description": "Design Thinking fundamentals and practice",
+    "credits": 2,
+    "departmentId": "833a8118-f7da-4d78-91d0-75705fb6001b"
+  },
+  {
+    "id": "4c6fa37e-5217-4897-9971-1911754887cb",
+    "courseCode": "HLT204",
+    "name": "Calculus II",
+    "description": "Calculus II fundamentals and practice",
+    "credits": 3,
+    "departmentId": "c2eaae78-23c3-47dc-95c6-ed1266538234"
+  },
+  {
+    "id": "87425fbf-2e45-4990-8593-2c4093fd64b1",
+    "courseCode": "MAT205",
+    "name": "Cloud Systems",
+    "description": "Cloud Systems fundamentals and practice",
+    "credits": 4,
+    "departmentId": "94393d3c-b081-4db3-b68f-f8d838ad4662"
+  },
+  {
+    "id": "417cca7a-50c7-490e-91a1-6b7930d7265c",
+    "courseCode": "CS206",
+    "name": "Human Anatomy",
+    "description": "Human Anatomy fundamentals and practice",
+    "credits": 2,
+    "departmentId": "80f597dd-1691-4dd8-ad19-48a64ee09c59"
+  },
+  {
+    "id": "fe3339e3-c279-49eb-bb1a-8965846b809e",
+    "courseCode": "BUS207",
+    "name": "Digital Marketing",
+    "description": "Digital Marketing fundamentals and practice",
+    "credits": 3,
+    "departmentId": "d79922b1-da5d-4e86-b43f-3ac413e0b54b"
+  },
+  {
+    "id": "b594960b-e534-465a-b741-0eb4b09eb6da",
+    "courseCode": "ENG208",
+    "name": "Thermodynamics",
+    "description": "Thermodynamics fundamentals and practice",
+    "credits": 4,
+    "departmentId": "f373b0b6-0583-433b-a657-bcd2960ef0e3"
+  },
+  {
+    "id": "6dc29680-f09a-47be-ae94-375959d32cbe",
+    "courseCode": "ART209",
+    "name": "Modern History",
+    "description": "Modern History fundamentals and practice",
+    "credits": 2,
+    "departmentId": "833a8118-f7da-4d78-91d0-75705fb6001b"
+  },
+  {
+    "id": "af232666-9434-41ca-a5e4-dd5464207422",
+    "courseCode": "HLT210",
+    "name": "Statistics",
+    "description": "Statistics fundamentals and practice",
+    "credits": 3,
+    "departmentId": "c2eaae78-23c3-47dc-95c6-ed1266538234"
+  },
+  {
+    "id": "0e6377a7-9ac5-4bfd-9dc0-3192609d837f",
+    "courseCode": "MAT211",
+    "name": "Operating Systems",
+    "description": "Operating Systems fundamentals and practice",
+    "credits": 4,
+    "departmentId": "94393d3c-b081-4db3-b68f-f8d838ad4662"
+  },
+  {
+    "id": "8bbdd2fb-cf66-42aa-bceb-ce48416bb886",
+    "courseCode": "CS212",
+    "name": "Business Law",
+    "description": "Business Law fundamentals and practice",
+    "credits": 2,
+    "departmentId": "80f597dd-1691-4dd8-ad19-48a64ee09c59"
+  },
+  {
+    "id": "5816f71a-24c1-474b-a0a4-dd25359cf404",
+    "courseCode": "BUS213",
+    "name": "Linear Algebra",
+    "description": "Linear Algebra fundamentals and practice",
+    "credits": 3,
+    "departmentId": "d79922b1-da5d-4e86-b43f-3ac413e0b54b"
+  },
+  {
+    "id": "80629bb0-d621-4817-a2b7-7f98e8abd6de",
+    "courseCode": "ENG214",
+    "name": "Mobile Computing",
+    "description": "Mobile Computing fundamentals and practice",
+    "credits": 4,
+    "departmentId": "f373b0b6-0583-433b-a657-bcd2960ef0e3"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "80f597dd-1691-4dd8-ad19-48a64ee09c59",
+    "name": "Computer Science",
+    "code": "CS",
+    "description": "Computer Science department"
+  },
+  {
+    "id": "d79922b1-da5d-4e86-b43f-3ac413e0b54b",
+    "name": "Business",
+    "code": "BUS",
+    "description": "Business department"
+  },
+  {
+    "id": "f373b0b6-0583-433b-a657-bcd2960ef0e3",
+    "name": "Engineering",
+    "code": "ENG",
+    "description": "Engineering department"
+  },
+  {
+    "id": "833a8118-f7da-4d78-91d0-75705fb6001b",
+    "name": "Arts & Humanities",
+    "code": "ART",
+    "description": "Arts & Humanities department"
+  },
+  {
+    "id": "c2eaae78-23c3-47dc-95c6-ed1266538234",
+    "name": "Health Sciences",
+    "code": "HLT",
+    "description": "Health Sciences department"
+  },
+  {
+    "id": "94393d3c-b081-4db3-b68f-f8d838ad4662",
+    "name": "Mathematics",
+    "code": "MAT",
+    "description": "Mathematics department"
+  }
+]
