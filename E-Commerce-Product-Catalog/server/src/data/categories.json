@@ -1,0 +1,38 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "description": "Smart technology for everyday life",
+    "slug": "electronics"
+  },
+  {
+    "id": "laptops",
+    "name": "Laptops",
+    "description": "Powerful portable workstations",
+    "slug": "laptops"
+  },
+  {
+    "id": "smartphones",
+    "name": "Smartphones",
+    "description": "Connected devices for every moment",
+    "slug": "smartphones"
+  },
+  {
+    "id": "headphones",
+    "name": "Headphones",
+    "description": "Immersive sound, anywhere",
+    "slug": "headphones"
+  },
+  {
+    "id": "accessories",
+    "name": "Accessories",
+    "description": "Thoughtful upgrades for your setup",
+    "slug": "accessories"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "description": "Gear for your next level",
+    "slug": "gaming"
+  }
+]

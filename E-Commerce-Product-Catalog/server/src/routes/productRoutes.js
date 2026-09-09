@@ -1,0 +1,12 @@
+import { Router } from "express";
+import * as controller from "../controllers/productController.js";
+import { asyncHandler } from "../middleware/errors.js";
+export const productRoutes = Router();
+productRoutes.get("/search", controller.list);
+productRoutes.get("/meta/brands", controller.brands);
+productRoutes.get("/meta/stats", controller.stats);
+productRoutes.get("/", controller.list);
+productRoutes.get("/:id", controller.detail);
+productRoutes.post("/", asyncHandler(controller.create));
+productRoutes.put("/:id", asyncHandler(controller.update));
+productRoutes.delete("/:id", asyncHandler(controller.remove));
