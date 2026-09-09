@@ -1,0 +1,23 @@
+[
+  {
+    "id": "19975924-374f-4e22-bb04-7cae45157243",
+    "title": "Frontend Foundations",
+    "description": "A sharp check-in on the browser, React, and modern web fundamentals.",
+    "durationMinutes": 12,
+    "marks": 50,
+    "state": "published",
+    "createdBy": "0a31b787-f10a-4b21-a04b-5d29f2748a77",
+    "createdAt": "2026-09-09T06:31:02.463Z"
+  },
+  {
+    "id": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "title": "Node.js Systems",
+    "description": "Understand the runtime patterns behind reliable Node services.",
+    "durationMinutes": 15,
+    "marks": 50,
+    "state": "retired",
+    "createdBy": "0a31b787-f10a-4b21-a04b-5d29f2748a77",
+    "createdAt": "2026-09-09T06:31:02.463Z",
+    "updatedAt": "2026-09-09T07:11:12.204Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "0a31b787-f10a-4b21-a04b-5d29f2748a77",
+    "name": "Avery Admin",
+    "email": "admin@quizcraft.local",
+    "passwordHash": "$2b$10$G31VNlry9q998lcNorIdxuMkF8V5itFo5CznLdoDEUe7Bg.tYI2TG",
+    "role": "admin",
+    "createdAt": "2026-09-09T06:31:02.362Z"
+  },
+  {
+    "id": "9b168774-30b1-4ed8-b2f3-9dd378051a24",
+    "name": "Jordan Student",
+    "email": "student@quizcraft.local",
+    "passwordHash": "$2b$10$xlikfzez6K5UciyJynO7X.z43Zr1ClIHFqCT62LqX0RIJqDsZr7tG",
+    "role": "student",
+    "createdAt": "2026-09-09T06:31:02.413Z"
+  },
+  {
+    "id": "67d733fd-df6e-41ba-9244-65534c8c9f0e",
+    "name": "Taylor Student",
+    "email": "taylor@quizcraft.local",
+    "passwordHash": "$2b$10$9wHT5S5yTvVak9b/HgM2XOuRd4Wfv2ehP3ye.iX4EzGLVsh7dkBvq",
+    "role": "student",
+    "createdAt": "2026-09-09T06:31:02.463Z"
+  },
+  {
+    "id": "24299ffa-d44c-4be4-b8bc-07b72ed87720",
+    "name": "Testing",
+    "email": "abc@gmail.com",
+    "passwordHash": "$2b$10$9wmZkKUOjYYsVP/HjKKPHOYuRRfCR94lV123UsMmj9/8cgaAT4hjC",
+    "role": "student",
+    "createdAt": "2026-09-09T07:03:23.618Z"
+  }
+]

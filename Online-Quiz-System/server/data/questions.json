@@ -1,0 +1,142 @@
+[
+  {
+    "id": "336eabe5-dedc-44dd-af13-c598c46ae791",
+    "quizId": "19975924-374f-4e22-bb04-7cae45157243",
+    "text": "Which API selects an element by its id?",
+    "options": {
+      "A": "querySelector",
+      "B": "getElementById",
+      "C": "getElementsByClassName",
+      "D": "selectId"
+    },
+    "correctOption": "B",
+    "marks": 10,
+    "order": 0
+  },
+  {
+    "id": "7f74e6af-ece6-4664-a532-10c56b4263da",
+    "quizId": "19975924-374f-4e22-bb04-7cae45157243",
+    "text": "What does JSX compile into?",
+    "options": {
+      "A": "SQL",
+      "B": "CSS",
+      "C": "JavaScript",
+      "D": "WebAssembly"
+    },
+    "correctOption": "C",
+    "marks": 10,
+    "order": 1
+  },
+  {
+    "id": "8c047d10-bb23-44d2-aa7b-4ea9db39b7c8",
+    "quizId": "19975924-374f-4e22-bb04-7cae45157243",
+    "text": "Which hook stores local component state?",
+    "options": {
+      "A": "useEffect",
+      "B": "useMemo",
+      "C": "useState",
+      "D": "useRef"
+    },
+    "correctOption": "C",
+    "marks": 10,
+    "order": 2
+  },
+  {
+    "id": "af58e77e-f222-4a77-b78c-c203a75cce9a",
+    "quizId": "19975924-374f-4e22-bb04-7cae45157243",
+    "text": "HTTP status 404 means:",
+    "options": {
+      "A": "Unauthorized",
+      "B": "Not found",
+      "C": "Created",
+      "D": "Redirected"
+    },
+    "correctOption": "B",
+    "marks": 10,
+    "order": 3
+  },
+  {
+    "id": "7e5f264d-836c-4e54-a1dd-89314da5f161",
+    "quizId": "19975924-374f-4e22-bb04-7cae45157243",
+    "text": "Which CSS layout is one-dimensional?",
+    "options": {
+      "A": "Grid",
+      "B": "Flexbox",
+      "C": "Canvas",
+      "D": "Table"
+    },
+    "correctOption": "B",
+    "marks": 10,
+    "order": 4
+  },
+  {
+    "id": "d5f2b620-56a4-4422-8f16-d3aa25a8306f",
+    "quizId": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "text": "Node.js is built on which JavaScript engine?",
+    "options": {
+      "A": "V8",
+      "B": "SpiderMonkey",
+      "C": "Chakra",
+      "D": "JavaScriptCore"
+    },
+    "correctOption": "A",
+    "marks": 10,
+    "order": 0
+  },
+  {
+    "id": "5cfd4131-459b-4690-9182-b7013818d53b",
+    "quizId": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "text": "Which module format does this server use?",
+    "options": {
+      "A": "CommonJS",
+      "B": "ES modules",
+      "C": "AMD",
+      "D": "UMD"
+    },
+    "correctOption": "B",
+    "marks": 10,
+    "order": 1
+  },
+  {
+    "id": "382f694f-cf88-4fa6-a11d-790362079504",
+    "quizId": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "text": "What does middleware do in Express?",
+    "options": {
+      "A": "Styles pages",
+      "B": "Handles request pipeline logic",
+      "C": "Compiles React",
+      "D": "Stores SQL"
+    },
+    "correctOption": "B",
+    "marks": 10,
+    "order": 2
+  },
+  {
+    "id": "ed3a688a-6ad8-4051-b691-965735afabc3",
+    "quizId": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "text": "Which status means a resource was created?",
+    "options": {
+      "A": "200",
+      "B": "201",
+      "C": "204",
+      "D": "304"
+    },
+    "correctOption": "B",
+    "marks": 10,
+    "order": 3
+  },
+  {
+    "id": "79e7e672-198f-408a-8572-c039054235da",
+    "quizId": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "text": "What is JSON primarily used for?",
+    "options": {
+      "A": "Data interchange",
+      "B": "Image editing",
+      "C": "Encryption",
+      "D": "Layout"
+    },
+    "correctOption": "A",
+    "marks": 10,
+    "order": 4
+  }
+]

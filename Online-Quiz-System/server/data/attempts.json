@@ -1,0 +1,29 @@
+[
+  {
+    "id": "e435ef67-4870-4d4c-9ab7-bdda681b7b9a",
+    "userId": "9b168774-30b1-4ed8-b2f3-9dd378051a24",
+    "quizId": "19975924-374f-4e22-bb04-7cae45157243",
+    "startedAt": "2026-09-09T06:57:49.657Z",
+    "expiresAt": "2026-09-09T07:09:49.657Z",
+    "status": "submitted",
+    "answers": [
+      {
+        "questionId": "336eabe5-dedc-44dd-af13-c598c46ae791",
+        "selectedOption": "B"
+      }
+    ],
+    "score": 10,
+    "submittedAt": "2026-09-09T07:08:21.620Z",
+    "updatedAt": "2026-09-09T07:08:21.621Z"
+  },
+  {
+    "id": "bf7aa370-3be2-4d56-ba25-ac2a3a5ac2e2",
+    "userId": "9b168774-30b1-4ed8-b2f3-9dd378051a24",
+    "quizId": "f289adfd-2343-4337-93bd-bec3cc8cd383",
+    "startedAt": "2026-09-09T07:10:53.902Z",
+    "expiresAt": "2026-09-09T07:25:53.902Z",
+    "status": "active",
+    "answers": [],
+    "score": null
+  }
+]
