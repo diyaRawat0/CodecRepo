@@ -153,9 +153,9 @@ cd CodecRepo/Online-Quiz-System
 npm install
 npm run install:all
 npm run dev
+```
 
 Open the frontend:
-
 ```text
 http://localhost:5173
 ```
