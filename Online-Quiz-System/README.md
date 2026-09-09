@@ -142,11 +142,7 @@ proj 1/
 ```
 
 ## Running The Project
-
-[svg](https://github.com/diyaRawat0/CodecRepo/blob/main/Online-Quiz-System/README.md#running-the-project)
-
 Clone the repository:
-
 ```bash
 git clone https://github.com/diyaRawat0/CodecRepo.git
 cd CodecRepo/Online-Quiz-System
