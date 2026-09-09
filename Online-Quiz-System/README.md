@@ -143,14 +143,16 @@ proj 1/
 
 ## Running The Project
 
-From the project root:
+[svg](https://github.com/diyaRawat0/CodecRepo/blob/main/Online-Quiz-System/README.md#running-the-project)
 
-```powershell
-cd "C:\Users\ADITYA\Desktop\testing\proj 1"
+Clone the repository:
+
+```bash
+git clone https://github.com/diyaRawat0/CodecRepo.git
+cd CodecRepo/Online-Quiz-System
 npm install
 npm run install:all
 npm run dev
-```
 
 Open the frontend:
 
